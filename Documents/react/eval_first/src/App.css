@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+
+}
+.inc{
+  width: 5%;
+  height: 40px;
+  margin-left: 1%;
+  background-color: teal;
+  color: white;
+  cursor: pointer;
 }
 
 .App-logo {

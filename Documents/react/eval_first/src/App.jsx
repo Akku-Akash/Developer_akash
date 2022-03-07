@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-
+import { Count } from './components/Count';
 function App() {
   return (
     <div className="App">
-     <h1>akash</h1>
+     <Count value = {0}/>
     </div>
   );
 }
