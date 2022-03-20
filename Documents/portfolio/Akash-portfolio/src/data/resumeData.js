@@ -102,7 +102,7 @@ export const projects = [
         "title": "Kohl's-Clone",
         "category": "Website",
         "image": "zeptto.png",
-        "url": "https://project-itc-clone.vercel.app/"
+        "url": "https://elegant-edison-95999a.netlify.app/"
     },
 ]
 
