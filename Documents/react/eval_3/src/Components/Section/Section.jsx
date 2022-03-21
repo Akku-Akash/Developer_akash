@@ -13,7 +13,7 @@ export const Section = () => {
   const Main = styled.div`
     /* Same as Homepage */
   `;
-
+  
   return (
     <>
       <h2 style={{ textAlign: "center" }}>
