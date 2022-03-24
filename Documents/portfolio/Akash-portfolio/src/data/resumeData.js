@@ -2,7 +2,7 @@ export const main = {
     "name": "Akash Kumar",
     "description": "I'm Full Stack Web Developer",
     "image": "profilepic.jpg",
-    "bio": "As the founder of KS Devware (software development company), I am Khalid Saifullah. A young entrepreneur. With nearly 4 years of experience, I’m a software engineer (full-stack web & mobile) and UI/UX designer. Worked as a senior lead full-stack developer at OpticEngine had been a rewarding experience. Moreover, I work on a few startups aimed at the Bangladesh, Russian, Chinese, American, and Dutch markets. Among the companies and entrepreneurs I have worked with are DP-Websolutions, Ganlax group, Hyvinvoivin, Happy-Dairy, Arrtal, FN Softwares & institute, and many more. Developing software for the world of intent is something I'm passionate about and I'm dedicated to making the world of intent easy and affordable for everyone.",
+    "bio": "Hi 🙋‍♂️, I am Akash Kumar a Full Stack Developer specialized in MERN Stack Technologies. I am a hard working, Critical Thinker , Self Motivated person who possesses an interest in computer and software technologies in my graduation time. As I completed my B.Tech in mechanical Engineering in the year 2020.",
     "email": "aka77350@gmail.com",
     "phone": "+91 8192917109",
     "quote": "The universe is a pretty big place. If it's just us.",
@@ -110,15 +110,6 @@ export const partners = [
 ]
 
 export const testimonials = [
-    {
-        "text": "We are very content and happy wan all the work Khalid Saifullah has done for us! Not only did he just what he had to do, comes up with suggestions and improvements of his owns and points out weaknesses which he in perfect communication is able to improve. Recommended! ",
-        "user": "Jason Sindram",
-        "company": "CTO at DP-Websolutions"
-    },
-    {
-        "text": "Superb. Great comms, understood the requirement, and delivered quickly. Multiple revisions allowed which were very helpful. I will work with him again.",
-        "user": "Bhavesh Patel",
-        "company": "CEO at Ganlaxgroup"
-    }
+   
 ]
 
