@@ -1,6 +1,5 @@
 export const main = {
     "name": "Akash Kumar",
-    "occupation": "Founder of KS Devware",
     "description": "I'm Full Stack Web Developer",
     "image": "profilepic.jpg",
     "bio": "As the founder of KS Devware (software development company), I am Khalid Saifullah. A young entrepreneur. With nearly 4 years of experience, I’m a software engineer (full-stack web & mobile) and UI/UX designer. Worked as a senior lead full-stack developer at OpticEngine had been a rewarding experience. Moreover, I work on a few startups aimed at the Bangladesh, Russian, Chinese, American, and Dutch markets. Among the companies and entrepreneurs I have worked with are DP-Websolutions, Ganlax group, Hyvinvoivin, Happy-Dairy, Arrtal, FN Softwares & institute, and many more. Developing software for the world of intent is something I'm passionate about and I'm dedicated to making the world of intent easy and affordable for everyone.",
@@ -32,7 +31,7 @@ export const main = {
 }
 
 export const about = {
-    "bio": "I am a Full Stack Web Developer <br /><span class='text-primary'>engineer</span> who cares<br /> about the code and the people.",
+    "bio": "I am a Full Stack Web  <br /><span class='text-primary'>Developer</span> <br />who cares about the code and the people.",
     "ido": "<p>WEB DEVELOPMENT</p><p>FRONT-END DEVELOPMENT</p><p>BACK-END DEVELOPMENT</p><p>MERN-STACK DEVELOPMENT</p>",
     "years": 4,
     "image": "img/profilepic.jpg",
@@ -49,7 +48,7 @@ export const works = [
             "title": "Patent Associate ",
             "image": "img/behance.png",
             "years": "August 2020 - October,2020",
-            "description": "• My profile is to work on innovative ideas and give suggestions to the inventors if their innovation is not unique and does not have a novelty in it. We first check the novelty of the invention by searching it with some relative keywords and then make a draft of that invention . "
+            "description": "•My profile was to work on innovative ideas and give suggestions to the inventors if their innovation was not unique and does not have novelty in it. We first checked the novelty of the invention by searching it with some relative keywords and then make a draft of the invention. "
         },
        
        
@@ -63,7 +62,7 @@ export const skills = {
     skills: [
         {
             "title": "Ninja at",
-            skills: ["JavaScript", "React JS", "React Native", "Node JS"]
+            skills: ["JavaScript", "React JS", "Node JS"]
         },
         {
             "title": "Front-end",

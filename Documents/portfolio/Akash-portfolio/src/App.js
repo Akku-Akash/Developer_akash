@@ -5,10 +5,9 @@ import About from './components/About';
 import Scrollbar from './components/Scrollbar';
 import Experience from './components/Experience';
 import Skills from './components/Skills';
-import Partners from './components/Partners';
 import Contact from './components/Contact';
 import Projects from './components/Projects';
-import { works, skills, projects, partners, testimonials, main, about } from './data/resumeData';
+import { works, skills, projects,  main, about } from './data/resumeData';
 
 
 function App() {
