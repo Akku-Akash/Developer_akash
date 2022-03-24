@@ -58,7 +58,7 @@ export const works = [
 
 export const skills = {
     title: "My mission is to create an impact <span class='text-primary'>globally</span>",
-    subtitle: "Developing software for the world of intent is something I'm passionate about and I'm dedicated to making the world of intent easy and affordable for everyone.",
+    subtitle: "Developing websites, webpages that can effectively display material, provide interactivity, and be artistically pleasing to the users is something I’m passionate about and I'm dedicated to making the world of the internet easy and affordable for everyone.",
     skills: [
         {
             "title": "Ninja at",
